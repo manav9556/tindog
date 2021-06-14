@@ -158,11 +158,11 @@ position: relative;
     #title
     {
         text-align: center;
-        font-size: 40%;
+        
     }    
     .img
     {
-        position: relative;
+        position: strict;
         transform: rotate(0);
     }
   
